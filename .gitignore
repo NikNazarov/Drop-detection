@@ -1,0 +1,6 @@
+*
+!.gitignore
+!drop contours.ipynb
+!drop_functions.py
+!requirements.txt
+!README.md
